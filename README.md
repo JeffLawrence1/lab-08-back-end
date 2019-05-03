@@ -13,14 +13,14 @@
 ## Number and name of feature: #2 Server
 * Estimate of time needed to complete: 3 hours
 * Start time: 9:10am
-* Finish time: 
-* Actual time needed to complete: 
+* Finish time: 8:10 am
+* Actual time needed to complete: 23hours
 
 ## Number and name of feature: #3 Deploy
-* Estimate of time needed to complete 
-* Start time: 
-* Finish time: 
-* Actual time needed to complete: 
+* Estimate of time needed to complete 15 minutes
+* Start time: 8:10 am
+* Finish time: 8:25 am
+* Actual time needed to complete: 15minutes 
 
 ## Overview
 This application is for users to put in and API key and location data in order to retrieve information from various APIs
